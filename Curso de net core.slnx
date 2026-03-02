@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="Curso de net core/Curso de net core.csproj" />
+  <Project Path="Curso de net core/Introduccion.csproj" />
+  <Project Path="Variables/Variables.csproj" Id="bb337774-1ad3-43f0-9ae6-88bd2dee8a69" />
 </Solution>
