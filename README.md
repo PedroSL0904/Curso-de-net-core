@@ -6,7 +6,7 @@ Repositorio de prácticas y proyectos del curso de C# y .NET Core desde Cero.
 
 - [x] **Sección 1: Introducción**: Configuración del entorno y Hola Mundo.
 - [x] **Sección 2: Variables**: Tipos de datos primitivos en C#.
-- [ ] **Sección 3: Operadores**: Aritméticos y lógicos.
+- [x] **Sección 3: Operadores**: Aritméticos y lógicos.
 - [ ] **Sección 4: Condicionales**: Estructura If-Else.
 - [ ] **Sección 5: Arreglos**: Tipos de Arrays.
 - [ ] **Sección 6: Ciclos**: Estructura For.
