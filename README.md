@@ -8,7 +8,7 @@ Repositorio de prácticas y proyectos del curso de C# y .NET Core desde Cero.
 - [x] **Sección 2: Variables**: Tipos de datos primitivos en C#.
 - [x] **Sección 3: Operadores**: Aritméticos y lógicos.
 - [x] **Sección 4: Condicionales**: Estructura If-Else.
-- [ ] **Sección 5: Arreglos**: Tipos de Arrays.
+- [x] **Sección 5: Arreglos**: Tipos de Arrays.
 - [ ] **Sección 6: Ciclos**: Estructura For.
 - [ ] **Sección 7: Ejercicio Práctico**: Triángulo de Pascal.
 - [ ] **Sección 8: Switch**: Estructura condicional de selección múltiple.
