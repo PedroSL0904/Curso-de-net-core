@@ -11,7 +11,7 @@ Repositorio de prácticas y proyectos del curso de C# y .NET Core desde Cero.
 - [x] **Sección 5: Arreglos**: Tipos de Arrays.
 - [x] **Sección 6: Ciclos**: Estructura For.
 - [x] **Sección 7: Ejercicio Práctico**: Triángulo de Pascal.
-- [ ] **Sección 8: Switch**: Estructura condicional de selección múltiple.
+- [x] **Sección 8: Switch**: Estructura condicional de selección múltiple.
 - [ ] **Sección 9: Bucles**: While y Do While.
 - [ ] **Sección 10: Strings**: Manipulación de cadenas de texto.
 
