@@ -16,7 +16,7 @@ Repositorio de código, prácticas y proyectos orientados a dominar C# y el ecos
 * **Algoritmia:** Resolución de problemas (Ej. Triángulo de Pascal).
 
 ### 🟡 Fase 2: Modularidad y Cadenas (En Progreso)
-- [ ] **Strings:** Manipulación avanzada de texto (Sec 10).
+- [x] **Strings:** Manipulación avanzada de texto (Sec 10).
 - [ ] **Métodos y Funciones:** Tipos, parámetros y retornos (Sec 12-14).
 - [ ] **Modificadores:** Uso de la palabra clave `static` (Sec 15).
 - [ ] **Parámetros Avanzados:** Argumentos con nombre y opcionales (Sec 16).
